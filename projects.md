@@ -7,22 +7,23 @@ permalink: /projects/
 <h2 align="center">ScoreSwipe</h2>
 
 <p align="center">
-<img src="{{ site.baseurl }}/images/ScoreSwipe.png" alt="ScoreSwipe Logo" width="200" height="200"/>
+A pickleball score tracker made for Apple Watch
 </p>
 
 <p align="center">
-<a href="" class="button">View on App Store</a>
+    <img src="{{ site.baseurl }}/images/ScoreSwipe.png" alt="ScoreSwipe Logo" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
-<a href="{{ site.baseurl }}/ScoreSwipe/privacy-policy" class="button" target="_blank">Privacy Policy</a>
+    <a href="" class="button">View on App Store</a>
+    <a href="{{ site.baseurl }}/ScoreSwipe/privacy-policy" class="button" target="_blank">Privacy Policy</a>
 </p>
 
-ScoreSwipe - a pickleball score tracker designed for Apple Watch
+
 
 <style>
 .button {
-  background-color: #cc150c;
+  background-color: #218aff;
   border: none;
   color: white;
   padding: 15px 32px;
