@@ -14,6 +14,10 @@ permalink: /projects/
 <a href="" class="button">View on App Store</a>
 </p>
 
+<p align="center">
+<a href="{{ site.baseurl }}/projects/ScoreSwipe/privacy-policy" class="button">Privacy Policy</a>
+</p>
+
 ScoreSwipe - a pickleball score tracker designed for Apple Watch
 
 <style>
