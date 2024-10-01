@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-Hey, I'm James, but I go by Jeems sometimes. I make cool apps from time to time.
+Hi there! I'm James, but my mom calls me Jeems. I make cool apps from time to time.
 
 <hr>
 
