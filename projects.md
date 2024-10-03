@@ -15,7 +15,7 @@ A pickleball score tracker made for Apple Watch
 </p>
 
 <p align="center">
-    <a href="" class="button">View on App Store</a>
+    <a href="https://apps.apple.com/us/app/scoreswipe/id6736343409" class="button">View on App Store</a>
     <a href="{{ site.baseurl }}/ScoreSwipe/privacy-policy" class="button" target="_blank">Privacy Policy</a>
 </p>
 
