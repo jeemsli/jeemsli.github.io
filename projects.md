@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+<h2 align="center">Audilog</h2>
+
+<p align="center">
+    An upcoming audio journaling app, focusing on four aspects. Coming soon for iOS.
+</p>
+
 <h2 align="center">ScoreSwipe</h2>
 
 <p align="center">
@@ -19,7 +25,15 @@ A pickleball score tracker made for Apple Watch
     <a href="{{ site.baseurl }}/ScoreSwipe/privacy-policy" class="button" target="_blank">Privacy Policy</a>
 </p>
 
+<h2 align="center">BobaBeware</h2>
 
+<p align="center">
+    A singleplayer survival roguelike game, built using JS and hosted on Firebase.
+</p>
+
+<p align="center">
+    <a href="https://bobabeware.firebaseapp.com/" class="button" target="_blank">BobaBeware</a>
+</p>
 
 <style>
 .button {
