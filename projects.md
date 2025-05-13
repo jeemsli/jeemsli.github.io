@@ -13,7 +13,7 @@ permalink: /projects/
 <h2 align="center">ScoreSwipe</h2>
 
 <p align="center">
-A pickleball score tracker made for Apple Watch
+A pickleball score tracker made for Apple Watch.
 </p>
 
 <p align="center">
